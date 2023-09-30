@@ -6,7 +6,7 @@ You can use it on Linux as well but you would need to adjust this config, I just
 
 ///
 
-This config isn't complete visit this website "Data Dumped" section to adjust config as you like -  https://cs2.poggu.me/
+This config isn't complete visit this website "Data Dumped" section to adjust Convars and Launch Commands as you like -  https://cs2.poggu.me/
 
 ///
 
