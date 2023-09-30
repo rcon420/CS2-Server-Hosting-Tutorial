@@ -14,5 +14,5 @@ by: oli for new alliedmodder users! If you find incorrect settings in cfg or inf
 
 ///
 
-### **Please Read the wiki for full detailed guide!**
+# **Please Read the wiki for full detailed guide!**
 
