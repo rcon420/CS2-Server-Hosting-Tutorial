@@ -1,0 +1,37 @@
+// To use this file, rename it to GameModes_Server.txt
+//
+// Values here override the default gamemodes.txt 
+
+"GameModes_Server.txt"
+{
+	"gameTypes"
+	{
+		"classic"
+		{
+			"gameModes"
+			{
+				"competitive"
+				{
+					"mapgroupsMP"
+					{
+						"mg_cs"	""
+					}
+				}
+			}
+		}
+	}
+	"mapgroups"
+	{
+		"mg_oli"
+		{
+			"name"		"mg_oli"
+			"maps"
+			{
+				
+				"de_inferno" ""
+				"cs_italy" ""
+				"de_ancient" ""
+			}
+		}
+	}
+}
