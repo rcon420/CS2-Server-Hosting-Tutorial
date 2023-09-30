@@ -8,4 +8,4 @@ This config isn't complete visit this website "Data Dumped" section to adjust co
 Please Read the wiki for full detailed guide!
 
 
-by: oli for new alliedmodder users!
+by: oli for new alliedmodder users! If you find incorrect settings in cfg or information in the wiki submit "Pull Request"
