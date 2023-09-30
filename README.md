@@ -7,7 +7,7 @@ You can use it on Linux as well you just need to adjust Server Launch line, I su
 This config isn't complete visit this website "Data Dumped" section to adjust config as you like -  https://cs2.poggu.me/
 
 
-Please Read the wiki for full detailed guide!
+### **Please Read the wiki for full detailed guide!**
 
 
 by: oli for new alliedmodder users! If you find incorrect settings in cfg or information in the wiki submit "Pull Request"
