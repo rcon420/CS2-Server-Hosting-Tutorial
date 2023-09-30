@@ -10,7 +10,7 @@ This config isn't complete visit this website "Data Dumped" section to adjust Co
 
 ///
 
-by: oli for new alliedmodder users! If you find incorrect settings in cfg or information in the wiki submit "Pull Request"
+by: oli for new alliedmodder users! If you find incorrect settings in the cfg or information in the wiki submit "Pull Request"
 
 ///
 
