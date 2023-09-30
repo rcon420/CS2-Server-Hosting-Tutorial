@@ -14,5 +14,7 @@ by: oli for new alliedmodder users! If you find incorrect settings in cfg or inf
 
 ///
 
-# **Please Read the wiki for full detailed guide![ [https://github.com/rcon420/CS2-Server-Tutorial/wiki](https://github.com/rcon420/CS2-Server-Hosting-Tutorial/wiki)](https://github.com/rcon420/CS2-Server-Hosting-Tutorial/wiki)**
+# **Please Read the wiki for full detailed guide!**
+
+https://github.com/rcon420/CS2-Server-Hosting-Tutorial/wiki
 
