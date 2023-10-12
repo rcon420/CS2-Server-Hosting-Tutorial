@@ -19,3 +19,4 @@ by: oli for new alliedmodder users! If you find incorrect settings in the cfg or
 
 ### https://github.com/rcon420/CS2-Server-Hosting-Tutorial/wiki
 
+Updated: 10/12/2023
