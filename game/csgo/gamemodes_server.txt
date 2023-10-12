@@ -809,7 +809,7 @@
 		
 		"mg_oli"
 		{
-			"name"		"mg_cs2"
+			"name"		"mg_oli"
 			"maps"
 			{
 				"de_inferno" ""
